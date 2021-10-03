@@ -65,9 +65,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-Install the following packages :
-    1. numpy version 1.14.2
-    2. opencv-contrib-python version 3.4.0.12
+1. Install the following packages : numpy version 1.14.2 and opencv-contrib-python version 3.4.0.12 .
 
 <!-- USAGE EXAMPLES -->
 
