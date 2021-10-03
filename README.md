@@ -46,7 +46,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-In the airline ticket booking system project, each user have his own account through which he can book, modify or cancel reservation online and even know the result of PCR test done in the arrived city. Moreover , the project provides ability to monitor the upcoming flights and their arriving time.
+A face recognition application using the OpenCV library with python.
 
 ### Built With
 
@@ -65,9 +65,9 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-1. Install the following packages :
-    -numpy version 1.14.2
-    -opencv-contrib-python version 3.4.0.12
+Install the following packages :
+    1. numpy version 1.14.2
+    2. opencv-contrib-python version 3.4.0.12
 
 <!-- USAGE EXAMPLES -->
 
